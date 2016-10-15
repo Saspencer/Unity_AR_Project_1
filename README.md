@@ -9,7 +9,7 @@ top of the Regal gift card.
 
 image target 1             |  3D display
 :-------------------------:|:-------------------------:
-![20161014_165730](https://cloud.githubusercontent.com/assets/14703849/19405757/49e937f4-9230-11e6-85a4-7280fe60c28b.jpg)  |  ![screenshot_2016-10-14-14-36-18](https://cloud.githubusercontent.com/assets/14703849/19405698/806eda64-922f-11e6-959c-f9c74c98ae23.png)
+![20161014_165730](https://cloud.githubusercontent.com/assets/14703849/19405915/312892d0-9232-11e6-9d95-a940f7513f79.jpg)  |  ![screenshot_2016-10-14-14-36-18](https://cloud.githubusercontent.com/assets/14703849/19405698/806eda64-922f-11e6-959c-f9c74c98ae23.png)
 
 
 The second is a maze I printed. When my smartphone camera recognized this image target it will make the maze appear 3D
